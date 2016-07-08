@@ -1,3 +1,5 @@
+My solutions to the Wonderland Clojure Katas, original readme begins below
+
 # wonderland-clojure-katas
 
 These are a collection of Clojure
